@@ -11,7 +11,5 @@
 
 ## About me
 =============
-* I have no programming experience. But now this is my first 
-  attempt to learn something new, cool and interesting.
-  My English level - B1
--------------
+* I have no programming experience. But now this is my first attempt to learn something new, cool and interesting.
+* My English level - B1
